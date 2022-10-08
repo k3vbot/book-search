@@ -6,7 +6,7 @@
   - [The challenge](#the-challenge)
   - [User Story](#user-story)
   - [Acceptance Criteria](#acceptance-criteria)
-  - [Video Walkthrough](#video-walkthrough)
+  - [Screen Shots](#screen-shots)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
